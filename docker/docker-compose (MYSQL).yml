@@ -1,0 +1,24 @@
+version: '3.1'
+services:
+    mysql:
+        container_name: MYSQL_HTTP
+        image: 'mysql:8.0'
+        environment:
+            - MYSQL_USER=http
+            - MYSQL_PASSWORD=http
+            - MYSQL_ROOT_PASSWORD=MYSQL_DATABASE
+            - MYSQL_DATABASE=MYSQL_DATABASE
+        ports:
+            # - '3306:3306'
+            - '8001:3306'
+
+
+### STEP 1 ###
+# docker exec -it <CONTAINER_ID>  mysql -uroot -p
+# Enter password:MYSQL_DATABASE
+
+### STEP 2 ###
+# mysql> CREATE USER 'http'@'111.11.1.1' IDENTIFIED BY 'http';
+# mysql> GRANT ALL PRIVILEGES ON *.* TO 'http'@'111.11.1.1' WITH GRANT OPTION;
+# mysql> flush privileges; 
+# mysql> exit

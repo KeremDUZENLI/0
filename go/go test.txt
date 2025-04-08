@@ -1,0 +1,6 @@
+go test         // show result
+go test -v      // show result of each
+
+go test ./calculation/ -v                               // show result of all tests inside
+go test ./calculation/ -run NameOfStruct -v             // show result of the struct
+go test ./calculation/ -count=1 -run SqlTestSuite -v    // avoid cache

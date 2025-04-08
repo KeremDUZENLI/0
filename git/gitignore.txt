@@ -1,0 +1,12 @@
+# Generic
+*.env
+*.csv
+*.txt
+
+# Ignore Virtual Environment
+myEnv/
+
+# Ignore Python bytecode and cache
+.py_checkpoints/
+.py_cache/
+__pycache__/

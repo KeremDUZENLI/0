@@ -1,0 +1,28 @@
+aws iam create-role \
+    --role-name lambda-ex \
+    --assume-role-policy-document file://trust-policy.json
+
+
+aws iam attach-role-policy \
+    --role-name lambda-ex \
+    --policy-arn arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole
+
+
+zip function.zip main
+
+
+aws lambda delete-function \
+    --function-name go-lambda-function
+
+
+aws lambda create-function --function-name go-lambda-function \
+    --zip-file fileb://function.zip \
+    --handler main \
+    --runtime go1.x \
+    --role arn:aws:iam::XXXXX:role/lambda-ex
+
+
+aws lambda invoke \
+    --function-name go-lambda-function \
+    --cli-binary-format raw-in-base64-out \
+    --payload '{"what is your name?": "Jim","How old are you": 25}' output.txt

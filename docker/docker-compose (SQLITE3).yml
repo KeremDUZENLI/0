@@ -1,0 +1,12 @@
+version: '3.1'
+services:
+    mysql:
+        container_name: sqlite3
+        image: 'sqlite3:8.0'
+        environment:
+            - MYSQL_USER=kerem
+            - MYSQL_PASSWORD=kerem
+            - MYSQL_ROOT_PASSWORD=MYSQL_1
+            - MYSQL_DATABASE=MYSQL_1
+        ports:
+            - '3306:3306'

@@ -1,0 +1,68 @@
+########## http.rest ##########
+
+--- GET ---
+GET http://localhost:3000/book/
+
+
+--- GET ---
+GET http://localhost:3000/book/1
+
+
+--- POST ---
+POST http://localhost:3000/book/
+
+Content-Type: application/json
+
+{
+    "title": "Angels and Demons",
+    "author": "Dan Brown",
+    "rating": 5
+}
+
+
+--- DELETE --- 
+DELETE http://localhost:3000/book/1
+
+
+
+
+
+########## net.rest ##########
+
+--- GetAlbums ---
+curl http://localhost:8080/albums
+
+
+--- GetAlbumByID ---
+curl http://localhost:8080/albums/2
+
+
+--- PostAlbums ---
+curl http://localhost:8080/albums \
+    --include --header \
+    "Content-Type: application/json" \
+    --request "POST" --data \
+    '{"ID": "4", "Title": "Title_4", "Price": 40}'
+
+
+--- GET ---
+curl http://localhost:8080/albums \
+    --header \
+    "Content-Type: application/json" \
+    --request "GET"
+
+
+
+
+
+########## curl terminal ##########
+
+curl --header "Content-Type: application/json" --request POST --data '{"email": "name.surname@myrl.tech", "firstName": "Name", "lastName": "Surname"}' https://...
+
+curl -X GET https://...
+
+curl -X GET https://...
+
+curl --header "Content-Type: application/json" --request PUT --data '{"email": "name.surname@myrl.tech", "firstName": "Name2", "lastName": "Surname2" https://...}
+
+curl -X DELETE https://...\?email\=name.surname@myrl.tech

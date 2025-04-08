@@ -1,0 +1,12 @@
+# Build the binary for your module
+GOOS=linux go build main.go
+
+
+
+# Package the binary, note we're packaging "main", not "main.go" here:
+zip function.zip main
+
+
+
+# And upload "function.zip" this package to Lambda
+run zip.py

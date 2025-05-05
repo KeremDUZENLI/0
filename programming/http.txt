@@ -1,41 +1,54 @@
-########## http.rest ##########
+########## FAKE API ##########
+---------- WEB ADRESS ----------
+// Fake API https://jsonplaceholder.typicode.com/
+// Fake API https://github.com/typicode/json-server
+// JSON>>GO https://mholt.github.io/json-to-go/
 
+---------- JSON Server - Install ----------
+npm install -g json-server
+
+if problem {
+https://nodejs.org/en/download/
+}
+
+---------- JSON Server - Start ----------
+json-server --watch db.json
+
+if problem {
+Set-ExecutionPolicy Unrestricted
+}
+
+
+
+
+########## HTTP ##########
+---------- http.rest ----------
 --- GET ---
 GET http://localhost:3000/book/
 
-
 --- GET ---
 GET http://localhost:3000/book/1
-
 
 --- POST ---
 POST http://localhost:3000/book/
 
 Content-Type: application/json
-
 {
     "title": "Angels and Demons",
     "author": "Dan Brown",
     "rating": 5
 }
 
-
---- DELETE --- 
+--- DELETE ---
 DELETE http://localhost:3000/book/1
 
 
-
-
-
-########## net.rest ##########
-
+---------- net.rest ----------
 --- GetAlbums ---
 curl http://localhost:8080/albums
 
-
 --- GetAlbumByID ---
 curl http://localhost:8080/albums/2
-
 
 --- PostAlbums ---
 curl http://localhost:8080/albums \
@@ -44,7 +57,6 @@ curl http://localhost:8080/albums \
     --request "POST" --data \
     '{"ID": "4", "Title": "Title_4", "Price": 40}'
 
-
 --- GET ---
 curl http://localhost:8080/albums \
     --header \
@@ -52,17 +64,9 @@ curl http://localhost:8080/albums \
     --request "GET"
 
 
-
-
-
-########## curl terminal ##########
-
+---------- curl terminal ----------
 curl --header "Content-Type: application/json" --request POST --data '{"email": "name.surname@myrl.tech", "firstName": "Name", "lastName": "Surname"}' https://...
-
-curl -X GET https://...
-
 curl -X GET https://...
 
 curl --header "Content-Type: application/json" --request PUT --data '{"email": "name.surname@myrl.tech", "firstName": "Name2", "lastName": "Surname2" https://...}
-
 curl -X DELETE https://...\?email\=name.surname@myrl.tech

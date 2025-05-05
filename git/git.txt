@@ -41,16 +41,16 @@ ssh -T git@gitlab.com
 git init test_project
 
 --- Staging changes ---
-git add -A  | git add .
+git add -A  |  git add .
 
 --- Commit the staged changes ---
-git commit -m "adding hello.txt"
+git commit -m "adding hello.txt"  |  git commit --allow-empty-message -m $''  |  git commit --amend --no-edit
 
 --- Adding a Remote ---
 git remote add origin git@git...
 
 --- Pushing Changes ---
-git push -u origin branch_name
+git push origin branch_name  |  git push --force origin branch_name
 
 --- Pulling Changes ---
 git pull  |  git pull origin main

@@ -1,0 +1,31 @@
+########## PYTHON ##########
+---------- python build ----------
+pyinstaller --onefile main.py --name xxx
+pyinstaller --noconfirm --onefile --windowed main.py --name xxx --add-data "notes/xxx.pdf;notes"
+
+
+---------- python test ----------
+python -m unittest -v tests/test_xxx.py
+
+
+
+
+########## GOLANG ##########
+---------- go build ----------
+# Build the binary for your module
+GOOS=linux go build main.go
+
+# Package the binary, note we're packaging "main", not "main.go" here:
+zip function.zip main
+
+# And upload "function.zip" this package to Lambda
+run zip.py
+
+
+---------- go test ----------
+go test         // show result
+go test -v      // show result of each
+
+go test ./calculation/ -v                               // show result of all tests inside
+go test ./calculation/ -run NameOfStruct -v             // show result of the struct
+go test ./calculation/ -count=1 -run SqlTestSuite -v    // avoid cache

@@ -41,7 +41,7 @@ ssh -T git@gitlab.com
 git init test_project
 
 --- Staging changes ---
-git add -A  |  git add .
+git add .  |  git add -A
 
 --- Commit the staged changes ---
 git commit -m "adding hello.txt"  |  git commit --allow-empty-message -m $''  |  git commit --amend --no-edit
@@ -54,6 +54,13 @@ git push origin branch_name  |  git push --force origin branch_name
 
 --- Pulling Changes ---
 git pull  |  git pull origin main
+
+--- Git Ignore ---
+git add .gitignore
+git commit -m "Update .gitignore to ignore helpers/"
+git rm -r --cached .
+git add .
+git commit -m "Apply .gitignore rules: untrack ignored files"
 
 
 

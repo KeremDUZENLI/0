@@ -1,20 +1,37 @@
 # Project Documentation Hub
 
-![My Logo](https://raw.githubusercontent.com/KeremDUZENLI/0/main/logo.png)
+<!-- Variables Section -->
+[//]: # (===== URL VARIABLES =====)
+[wiki-home]: https://github.com/KeremDUZENLI/0/wiki
+[wiki-coding]: https://github.com/KeremDUZENLI/0/wiki/Coding
+[wiki-docker]: https://github.com/KeremDUZENLI/0/wiki/Docker
+[wiki-git]: https://github.com/KeremDUZENLI/0/wiki/Git
+[wiki-arch]: https://github.com/KeremDUZENLI/0/wiki/OS_Linux_Arch
+[wiki-ubuntu]: https://github.com/KeremDUZENLI/0/wiki/OS_Linux_Ubuntu
+[wiki-windows]: https://github.com/KeremDUZENLI/0/wiki/OS_Windows
+[logo]: https://raw.githubusercontent.com/KeremDUZENLI/0/main/logo.png
+[my-website]: https://keremduzenli.wordpress.com/
+
+<div align="center">
+  <a href="[my-website]" target="_blank" rel="noopener">
+    <img src="[logo]" alt="Kerem DÜZENLİ" height="60">
+  </a>
+  
+  <h3>Project Documentation Hub</h3>
+</div>
 
 ## 📚 Wiki Documentation
+Explore detailed guides and resources:
 
-Explore detailed guides and resources in our wiki:
+- [Home][wiki-home] - Project overview
+- [Coding Tweaks][wiki-coding] - Development best practices
+- [Docker Tweaks][wiki-docker] - Containerization guide
+- [Git Codes][wiki-git] - Version control workflows
+- [Linux - Arch Installation][wiki-arch] - Arch Linux setup
+- [Linux - Ubuntu Tips][wiki-ubuntu] - Ubuntu optimizations
+- [Windows Tweaks][wiki-windows] - Windows configuration
 
-- [Home](wiki/Home) - Project overview
-- [Coding Tweaks](wiki/Coding-Tweaks) - Development best practices
-- [Docker Tweaks](wiki/Docker-Tweaks) - Containerization guide
-- [Git Codes](wiki/Git-Codes) - Version control workflows
-- [Linux - Arch Installation](wiki/OS‐Linux‐Arch) - Arch Linux setup
-- [Linux - Ubuntu Tips](wiki/OS‐Linux‐Ubuntu) - Ubuntu optimizations
-- [Windows Tweaks](wiki/OS‐Windows) - Windows configuration
-
-[**Browse all wiki pages →**](wiki)
+[**Browse all wiki pages →**][wiki-home]
 
 ## Wiki
 

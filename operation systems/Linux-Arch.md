@@ -1,5 +1,4 @@
 # 1 Pre-installation
-
 ## 1.5 Set the console keyboard layout and font
 ```bash
 loadkeys trq

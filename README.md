@@ -3,6 +3,7 @@
 [wiki-docker]: https://github.com/KeremDUZENLI/0/wiki/Docker
 [wiki-git]: https://github.com/KeremDUZENLI/0/wiki/Git
 [wiki-arch]: https://github.com/KeremDUZENLI/0/wiki/OS_Linux_Arch
+[wiki-arch-after]: https://github.com/KeremDUZENLI/0/wiki/OS_Linux_Arch_After
 [wiki-ubuntu]: https://github.com/KeremDUZENLI/0/wiki/OS_Linux_Ubuntu
 [wiki-windows]: https://github.com/KeremDUZENLI/0/wiki/OS_Windows
 [logo]: https://raw.githubusercontent.com/KeremDUZENLI/0/main/logo.png
@@ -22,6 +23,7 @@
 - [Docker Tweaks][wiki-docker]
 - [Git Codes][wiki-git]
 - [Linux - Arch Installation][wiki-arch]
+- [Linux - Arch Configuration][wiki-arch-after]
 - [Linux - Ubuntu Tips][wiki-ubuntu]
 - [Windows Tweaks][wiki-windows]
 

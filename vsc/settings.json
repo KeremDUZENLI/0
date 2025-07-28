@@ -1,27 +1,54 @@
 {
-    "explorer.compactFolders": false,
-    "code-runner.runInTerminal": true,
-    "explorer.confirmDelete": false,
-    "tabnine.experimentalAutoImports": true,
-    "git.enableSmartCommit": true,
-    "git.autofetch": true,
-    "workbench.startupEditor": "none",
-    "explorer.confirmDragAndDrop": false,
-    "workbench.iconTheme": "material-icon-theme",
-    "editor.minimap.enabled": false,
-    "terminal.integrated.enableMultiLinePasteWarning": "never",
-    "editor.formatOnSave": true,
-    "go.useLanguageServer": true,
-    "go.formatTool": "goimports",
-    "[go]": {
-        "editor.formatOnSave": true,
-        "editor.insertSpaces": true,
-        "editor.codeActionsOnSave": {
-            "source.organizeImports": true
-        },
-        "editor.defaultFormatter": "golang.go"
-    },
-    "editor.codeActionsOnSave": {},
-    "security.workspace.trust.untrustedFiles": "open",
-    "workbench.editor.untitled.hint": "hidden"
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.startupEditor": "none",
+
+  "terminal.integrated.fontSize": 12,
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.enableMultiLinePasteWarning": "never",
+
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  "explorer.confirmDelete": false,
+  "explorer.compactFolders": false,
+  "explorer.confirmDragAndDrop": false,
+
+  "files.exclude": { "**/__pycache__": true },
+  "files.associations": { "*.py": "python" },
+
+  "debug.console.wordWrap": false,
+
+  "extensions.autoCheckUpdates": false,
+
+  "settingsSync.ignoredSettings": ["-window.zoomLevel"],
+
+  "security.workspace.trust.untrustedFiles": "open",
+
+  "git.autofetch": true,
+  "git.enableSmartCommit": true,
+
+  "liveServer.settings.donotVerifyTags": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+
+  "notebook.defaultFormatter": "esbenp.prettier-vscode",
+  "notebook.formatOnSave.enabled": true,
+  "jupyter.enableExtendedPythonKernelCompletions": true,
+
+  "python.languageServer": "Pylance",
+  "python.defaultInterpreterPath": "/usr/bin/python3",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+
+  "go.formatTool": "goimports",
+  "go.useLanguageServer": true,
+  "go.toolsManagement.autoUpdate": true,
+  "[go]": {
+    "editor.defaultFormatter": "golang.go",
+    "editor.insertSpaces": true,
+    "editor.codeActionsOnSave": { "source.organizeImports": "explicit" }
+  },
+
+  "javascript.updateImportsOnFileMove.enabled": "always"
 }

@@ -25,7 +25,7 @@
 - [Git Codes][wiki-git]
 - [Linux - Arch Installation][wiki-arch]
 - [Linux - Arch Configuration][wiki-arch-after]
-- [Linux – Arch Setup Programs][wiki-arch-setup]
+- [Linux - Arch Setup Programs][wiki-arch-setup]
 - [Linux - Ubuntu Tips][wiki-ubuntu]
 - [Windows Tweaks][wiki-windows]
 

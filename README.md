@@ -14,13 +14,13 @@
 
 # Project Documentation Hub
 
-[![Kerem DÜZENLİ][https://raw.githubusercontent.com/KeremDUZENLI/0/main/logo.png][https://keremduzenli.wordpress.com]
+[![Kerem DÜZENLİ](https://raw.githubusercontent.com/KeremDUZENLI/0/main/logo.png)(https://keremduzenli.wordpress.com)
 
 ---
 
 ## 📚 Wiki Documentations
 
-- [Home][https://github.com/KeremDUZENLI/0/wiki]
+- [Home](https://github.com/KeremDUZENLI/0/wiki)
 - [Coding_Tips][https://github.com/KeremDUZENLI/0/wiki/Coding_Tips]
 - [Docker_Tips][https://github.com/KeremDUZENLI/0/wiki/Docker_Tips]
 - [Git_Codes][https://github.com/KeremDUZENLI/0/wiki/Git_Codes]

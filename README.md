@@ -1,35 +1,25 @@
-[Home]: https://github.com/KeremDUZENLI/0/wiki
-[Coding_Tips]: https://github.com/KeremDUZENLI/0/wiki/Coding_Tips
-[Docker_Tips]: https://github.com/KeremDUZENLI/0/wiki/Docker_Tips
-[Git_Codes]: https://github.com/KeremDUZENLI/0/wiki/Git_Codes
-[Linux_Arch_Install]: https://github.com/KeremDUZENLI/0/wiki/Linux_Arch_Install
-[Linux_Arch_Modify]: https://github.com/KeremDUZENLI/0/wiki/Linux_Arch_Modify
-[wiki-arch-programs]: https://github.com/KeremDUZENLI/0/wiki/Linux_Arch_Programs
-[Linux_Arch_Tips]: https://github.com/KeremDUZENLI/0/wiki/Linux_Arch_Tips
-[Linux_Ubuntu_Tips]: https://github.com/KeremDUZENLI/0/wiki/Linux_Ubuntu_Tips
-[Windows_Tips]: https://github.com/KeremDUZENLI/0/wiki/Windows_Tips
 [Logo]: https://raw.githubusercontent.com/KeremDUZENLI/0/main/logo.png
 [Website]: https://keremduzenli.wordpress.com
 
 
 # Project Documentation Hub
 
-[![Kerem DÜZENLİ][Logo][Website]
+[![Kerem DÜZENLİ][Logo][Website]]
 
 ---
 
 ## 📚 Wiki Documentations
 
 - [Home](https://github.com/KeremDUZENLI/0/wiki)
-- [Coding_Tips](https://github.com/KeremDUZENLI/0/wiki/Coding_Tips)
-- [Docker_Tips](https://github.com/KeremDUZENLI/0/wiki/Docker_Tips)
-- [Git_Codes](https://github.com/KeremDUZENLI/0/wiki/Git_Codes)
-- [Linux_Arch_Install](https://github.com/KeremDUZENLI/0/wiki/Linux_Arch_Install)
-- [Linux_Arch_Modify](https://github.com/KeremDUZENLI/0/wiki/Linux_Arch_Modify)
-- [Linux_Arch_Programs](https://github.com/KeremDUZENLI/0/wiki/Linux_Arch_Programs)
-- [Linux_Arch_Tips](https://github.com/KeremDUZENLI/0/wiki/Linux_Arch_Tips)
-- [Linux_Ubuntu_Tips](https://github.com/KeremDUZENLI/0/wiki/Windows_Tips)
-- [Windows_Tips](https://github.com/KeremDUZENLI/0/wiki/Windows_Tips)
+- [Coding Tips](https://github.com/KeremDUZENLI/0/wiki/Coding_Tips)
+- [Docker Tips](https://github.com/KeremDUZENLI/0/wiki/Docker_Tips)
+- [Git Codes](https://github.com/KeremDUZENLI/0/wiki/Git_Codes)
+- [Linux Arch Install](https://github.com/KeremDUZENLI/0/wiki/Linux_Arch_Install)
+- [Linux Arch Modify](https://github.com/KeremDUZENLI/0/wiki/Linux_Arch_Modify)
+- [Linux Arch Programs](https://github.com/KeremDUZENLI/0/wiki/Linux_Arch_Programs)
+- [Linux Arch Tips](https://github.com/KeremDUZENLI/0/wiki/Linux_Arch_Tips)
+- [Linux Ubuntu Tips](https://github.com/KeremDUZENLI/0/wiki/Windows_Tips)
+- [Windows Tips](https://github.com/KeremDUZENLI/0/wiki/Windows_Tips)
 
 ---
 

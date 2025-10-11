@@ -5,6 +5,7 @@
 [wiki-arch]: https://github.com/KeremDUZENLI/0/wiki/OS_Linux_Arch
 [wiki-arch-after]: https://github.com/KeremDUZENLI/0/wiki/OS_Linux_Arch_After
 [wiki-arch-setup]: https://github.com/KeremDUZENLI/0/wiki/OS_Linux_Arch_Setup
+[wiki-arc-tips]: https://github.com/KeremDUZENLI/0/wiki/OS_Linux_Arch_Tips
 [wiki-ubuntu]: https://github.com/KeremDUZENLI/0/wiki/OS_Linux_Ubuntu
 [wiki-windows]: https://github.com/KeremDUZENLI/0/wiki/OS_Windows
 [logo]: https://raw.githubusercontent.com/KeremDUZENLI/0/main/logo.png
@@ -26,7 +27,8 @@
 - [Linux - Arch Installation][wiki-arch]
 - [Linux - Arch Configuration][wiki-arch-after]
 - [Linux - Arch Setup Programs][wiki-arch-setup]
-- [Linux - Ubuntu Tips][wiki-ubuntu]
+- [Linux - Arch Tips][wiki-arch-tips]
+- [Linux - Ubuntu][wiki-ubuntu]
 - [Windows Tweaks][wiki-windows]
 
 ---

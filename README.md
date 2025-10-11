@@ -14,22 +14,22 @@
 
 # Project Documentation Hub
 
-[![Kerem DÜZENLİ][(https://raw.githubusercontent.com/KeremDUZENLI/0/main/logo.png)][(https://keremduzenli.wordpress.com)]
+[![Kerem DÜZENLİ][Logo][Website]
 
 ---
 
 ## 📚 Wiki Documentations
 
 - [Home](https://github.com/KeremDUZENLI/0/wiki)
-- [Coding_Tips][https://github.com/KeremDUZENLI/0/wiki/Coding_Tips]
-- [Docker_Tips][https://github.com/KeremDUZENLI/0/wiki/Docker_Tips]
-- [Git_Codes][https://github.com/KeremDUZENLI/0/wiki/Git_Codes]
-- [Linux_Arch_Install][https://github.com/KeremDUZENLI/0/wiki/Linux_Arch_Install]
-- [Linux_Arch_Modify][https://github.com/KeremDUZENLI/0/wiki/Linux_Arch_Modify]
-- [Linux_Arch_Programs][https://github.com/KeremDUZENLI/0/wiki/Linux_Arch_Programs]
-- [Linux_Arch_Tips][https://github.com/KeremDUZENLI/0/wiki/Linux_Arch_Tips]
-- [Linux_Ubuntu_Tips][https://github.com/KeremDUZENLI/0/wiki/Windows_Tips]
-- [Windows_Tips][https://github.com/KeremDUZENLI/0/wiki/Windows_Tips]
+- [Coding_Tips](https://github.com/KeremDUZENLI/0/wiki/Coding_Tips)
+- [Docker_Tips](https://github.com/KeremDUZENLI/0/wiki/Docker_Tips)
+- [Git_Codes](https://github.com/KeremDUZENLI/0/wiki/Git_Codes)
+- [Linux_Arch_Install](https://github.com/KeremDUZENLI/0/wiki/Linux_Arch_Install)
+- [Linux_Arch_Modify](https://github.com/KeremDUZENLI/0/wiki/Linux_Arch_Modify)
+- [Linux_Arch_Programs](https://github.com/KeremDUZENLI/0/wiki/Linux_Arch_Programs)
+- [Linux_Arch_Tips](https://github.com/KeremDUZENLI/0/wiki/Linux_Arch_Tips)
+- [Linux_Ubuntu_Tips](https://github.com/KeremDUZENLI/0/wiki/Windows_Tips)
+- [Windows_Tips](https://github.com/KeremDUZENLI/0/wiki/Windows_Tips)
 
 ---
 

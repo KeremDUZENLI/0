@@ -14,7 +14,7 @@
 
 # Project Documentation Hub
 
-[![Kerem DÜZENLİ](https://raw.githubusercontent.com/KeremDUZENLI/0/main/logo.png)(https://keremduzenli.wordpress.com)
+[![Kerem DÜZENLİ][(https://raw.githubusercontent.com/KeremDUZENLI/0/main/logo.png)][(https://keremduzenli.wordpress.com)]
 
 ---
 

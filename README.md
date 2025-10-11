@@ -1,10 +1,9 @@
 [logo]: https://raw.githubusercontent.com/KeremDUZENLI/0/main/logo.png
 [website]: https://keremduzenli.wordpress.com
 
-
 # Project Documentation Hub
 
-[![Kerem DÜZENLİ][logo][website]]
+[![Kerem DÜZENLİ][logo]][website]
 
 ---
 

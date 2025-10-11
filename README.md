@@ -1,13 +1,13 @@
 [wiki-home]: https://github.com/KeremDUZENLI/0/wiki
-[wiki-coding]: https://github.com/KeremDUZENLI/0/wiki/Coding
-[wiki-docker]: https://github.com/KeremDUZENLI/0/wiki/Docker
-[wiki-git]: https://github.com/KeremDUZENLI/0/wiki/Git
-[wiki-arch]: https://github.com/KeremDUZENLI/0/wiki/OS_Linux_Arch
-[wiki-arch-after]: https://github.com/KeremDUZENLI/0/wiki/OS_Linux_Arch_After
-[wiki-arch-setup]: https://github.com/KeremDUZENLI/0/wiki/OS_Linux_Arch_Setup
+[wiki-coding-tips]: https://github.com/KeremDUZENLI/0/wiki/Coding
+[wiki-docker-tips]: https://github.com/KeremDUZENLI/0/wiki/Docker
+[wiki-git-codes]: https://github.com/KeremDUZENLI/0/wiki/Git
+[wiki-arch-install]: https://github.com/KeremDUZENLI/0/wiki/OS_Linux_Arch_Install
+[wiki-arch-modify]: https://github.com/KeremDUZENLI/0/wiki/OS_Linux_Arch_Modify
+[wiki-arch-programs]: https://github.com/KeremDUZENLI/0/wiki/OS_Linux_Arch_Programs
 [wiki-arch-tips]: https://github.com/KeremDUZENLI/0/wiki/OS_Linux_Arch_Tips
-[wiki-ubuntu]: https://github.com/KeremDUZENLI/0/wiki/OS_Linux_Ubuntu
-[wiki-windows]: https://github.com/KeremDUZENLI/0/wiki/OS_Windows
+[wiki-ubuntu-tips]: https://github.com/KeremDUZENLI/0/wiki/OS_Linux_Ubuntu
+[wiki-windows-tips]: https://github.com/KeremDUZENLI/0/wiki/OS_Windows
 [logo]: https://raw.githubusercontent.com/KeremDUZENLI/0/main/logo.png
 [my-website]: https://keremduzenli.wordpress.com
 
@@ -21,15 +21,15 @@
 ## 📚 Wiki Documentations
 
 - [Home][wiki-home]
-- [Coding Tweaks][wiki-coding]
-- [Docker Tweaks][wiki-docker]
-- [Git Codes][wiki-git]
-- [Linux - Arch Installation][wiki-arch]
-- [Linux - Arch Configuration][wiki-arch-after]
-- [Linux - Arch Setup Programs][wiki-arch-setup]
+- [Coding Tips][wiki-coding-tips]
+- [Docker Tips][wiki-docker-tips]
+- [Git Codes][wiki-git-codes]
+- [Linux - Arch Install][wiki-arch-install]
+- [Linux - Arch Modify][wiki-arch-modify]
+- [Linux - Arch Programs][wiki-arch-programs]
 - [Linux - Arch Tips][wiki-arch-tips]
-- [Linux - Ubuntu][wiki-ubuntu]
-- [Windows Tweaks][wiki-windows]
+- [Linux - Ubuntu Tips][wiki-ubuntu-tips]
+- [Windows - Tips][wiki-windows-tips]
 
 ---
 

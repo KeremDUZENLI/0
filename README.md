@@ -18,7 +18,8 @@
 - [Linux Arch Programs](https://github.com/KeremDUZENLI/0/wiki/Linux_Arch_Programs)
 - [Linux Arch Tips](https://github.com/KeremDUZENLI/0/wiki/Linux_Arch_Tips)
 - [Linux Ubuntu Tips](https://github.com/KeremDUZENLI/0/wiki/Linux_Ubuntu_Tips)
-- [Sony PS3](https://github.com/KeremDUZENLI/0/wiki/Sony_PS3)
+- [Sony PS3 CFW](https://github.com/KeremDUZENLI/0/wiki/Sony_PS3_CFW)
+- [Sony PS3 Tips](https://github.com/KeremDUZENLI/0/wiki/Sony_PS3_Tips)
 - [Windows Tips](https://github.com/KeremDUZENLI/0/wiki/Windows_Tips)
 
 ---

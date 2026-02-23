@@ -10,17 +10,23 @@
 ## 📚 Wiki Documentations
 
 - [Home](https://github.com/KeremDUZENLI/0/wiki)
+#####
 - [Coding Tips](https://github.com/KeremDUZENLI/0/wiki/Coding_Tips)
 - [Docker Tips](https://github.com/KeremDUZENLI/0/wiki/Docker_Tips)
+#####
 - [Git Codes](https://github.com/KeremDUZENLI/0/wiki/Git_Codes)
+#####
 - [Linux Arch Install](https://github.com/KeremDUZENLI/0/wiki/Linux_Arch_Install)
 - [Linux Arch Modify](https://github.com/KeremDUZENLI/0/wiki/Linux_Arch_Modify)
 - [Linux Arch Programs](https://github.com/KeremDUZENLI/0/wiki/Linux_Arch_Programs)
 - [Linux Arch Tips](https://github.com/KeremDUZENLI/0/wiki/Linux_Arch_Tips)
+#####
 - [Linux Ubuntu Tips](https://github.com/KeremDUZENLI/0/wiki/Linux_Ubuntu_Tips)
+#####
 - [Sony PS3 CFW](https://github.com/KeremDUZENLI/0/wiki/Sony_PS3_CFW)
 - [Sony PS3 Settings](https://github.com/KeremDUZENLI/0/wiki/Sony_PS3_Settings)
 - [Sony PS3 Tips](https://github.com/KeremDUZENLI/0/wiki/Sony_PS3_Tips)
+#####
 - [Windows Tips](https://github.com/KeremDUZENLI/0/wiki/Windows_Tips)
 
 ---
